@@ -1,5 +1,7 @@
 *.h5ad
 *.pt
 .ipynb_checkpoints
-/datasets/*
-/results/plots/*
+/dataset/*
+/results/plots/*.png
+/results/plots/*.tif
+
