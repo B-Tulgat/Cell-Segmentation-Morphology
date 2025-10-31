@@ -15,6 +15,8 @@
 - Kaggle 2018 Data Science Bowl: **BBBC038**
   - Link: https://bbbc.broadinstitute.org/BBBC038
 
+- From SAM-Cellpose model predication labels we extracted of 12 morphological features (area, circularity, eccentricity)
+
 <img width="1440" height="929" alt="Cell Segmentation drawio" src="https://github.com/user-attachments/assets/b1561bc6-91f3-4663-a5ba-851f3c6562e1" />
 
 ## References
