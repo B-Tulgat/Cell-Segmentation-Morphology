@@ -2,7 +2,11 @@
 
 ## Main Result
 
-Using pretrained SAM-CellPose model (https://pypi.org/project/cellpose) we segmented +30'000 cell nuclei. 
+- Segmented ~30'000 cell nuclei from 670 images using pretrained SAM-CellPose model (https://pypi.org/project/cellpose).
+- Achieved mean IoU of 85.04% and F1 score of 95.86% over 670 bio-images.
+
+<img width="2684" height="1780" alt="image" src="https://github.com/user-attachments/assets/0e4f543b-59f8-4e67-a646-99f28e4d4bea" />
+
 
 ## Dataset
 - Description of the biological application
