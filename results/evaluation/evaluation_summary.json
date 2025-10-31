@@ -1,0 +1,19 @@
+{
+  "total_images_evaluated": 670,
+  "mean_iou": 0.8503878343293073,
+  "std_iou": 0.12091969011658217,
+  "median_iou": 0.874463864670226,
+  "min_iou": 0.0,
+  "max_iou": 0.9795390011691999,
+  "mean_dice": 0.9127209768258486,
+  "mean_pixel_accuracy": 0.9795285516241838,
+  "mean_f1_score": 0.9585753966709633,
+  "mean_precision": 0.984383275957105,
+  "mean_recall": 0.9381206740392523,
+  "total_nuclei_predicted": 23122,
+  "total_nuclei_ground_truth": 24286,
+  "total_true_positives": 22857,
+  "total_false_positives": 265,
+  "total_false_negatives": 1214,
+  "evaluation_date": "2025-10-31T20:52:52.807514"
+}
