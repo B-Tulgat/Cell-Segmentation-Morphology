@@ -15,4 +15,4 @@ Using pretrained SAM-CellPose model (https://pypi.org/project/cellpose) we segme
 
 ## References
 
-  1. Pachitariu, M., Rariden, M., & Stringer, C. (2025). Cellpose‑SAM: superhuman generalization for cellular segmentation [Preprint]. bioRxiv. https://doi.org/10.1101/2025.04.28.651001v1
+  1. Pachitariu, M., Rariden, M., & Stringer, C. (2025). Cellpose‑SAM: superhuman generalization for cellular segmentation [Preprint]. bioRxiv. [https://doi.org/10.1101/2025.04.28.651001v1](https://doi.org/10.1101/2025.04.28.651001)
